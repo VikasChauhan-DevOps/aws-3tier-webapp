@@ -64,6 +64,11 @@ Project screenshots will be added during the implementation phase.
 > **Architecture:** Highly Available 3-Tier Web Application on AWS
 
 ---
+## ☁️ Infrastructure as Code
+
+CloudFormation reference template:
+
+[View CloudFormation Template](cloudformation/3-tier-architecture-showcase.yaml)
 
 ## 📂 Project Structure
 
