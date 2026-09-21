@@ -46,8 +46,9 @@ Project screenshots will be added after deployment.
 
 ## 🏗️ Architecture Diagram
 
-Architecture diagram will be added here.
+![AWS Architecture](diagrams/architecture.png)
 
+Production-style Highly Available 3-Tier AWS Architecture.
 ---
 
 ## 📂 Project Structure
