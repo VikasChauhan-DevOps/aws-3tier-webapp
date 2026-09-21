@@ -1,6 +1,21 @@
 # 🚀 Highly Available 3-Tier Web Application on AWS
 
-Production-style AWS infrastructure project implementing a **Highly Available 3-Tier Architecture** across multiple Availability Zones using core AWS networking, compute, database, storage, monitoring, and infrastructure automation services.
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-orange?logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon-EC2-orange?logo=amazonaws&logoColor=white)
+![RDS](https://img.shields.io/badge/Amazon-RDS-orange?logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/Amazon-VPC-orange?logo=amazonaws&logoColor=white)
+![IaC](https://img.shields.io/badge/Infrastructure-as--Code-blue)
+
+## 📌 Project Status
+
+**Architecture Design & Infrastructure Showcase**
+
+This project demonstrates the design of a Highly Available 3-Tier Web Application architecture on AWS using Infrastructure as Code concepts and AWS CloudFormation.
+
+> AWS infrastructure deployment is planned as the next implementation phase.
+
+AWS architecture and Infrastructure as Code showcase demonstrating the design of a Highly Available 3-Tier Web Application across multiple Availability Zones.
 
 ---
 
